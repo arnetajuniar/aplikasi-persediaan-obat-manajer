@@ -22,6 +22,6 @@ PETUNJUK PENGGUNAAN
 6. Import file i_persediaan_obat.sql yang ada difolder Database ke dalam database yang telah dibuat.
 7. Setting koneksi pada file database.php yang ada pada folrder config (sesuaikan dengan pengaturan server di komputer/laptop Anda)
 8. Untuk membuka program ketikan localhost/Aplikasi-Persediaan-Obat.
-9. Login user : Hak akses Super Admin 	: username indrasatya, password indrasatya
-		Hak akses Super Gudang 	: username danang, password 123
-		Hak akses Super Manajer : username kadina, password 123
+9. Login user : Hak akses Super Admin 	: username vallhaidee, password haideedan
+		Hak akses Super Gudang 	: username gibrandytm, password 123
+		Hak akses Super Manajer : username haidanlzrd, password 123
